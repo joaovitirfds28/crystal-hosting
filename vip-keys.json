@@ -13,10 +13,10 @@
     "key": "CRYSTAL-M0Q9-TH66",
     "plano": "pro",
     "usuario": "luan",
-    "usado": false,
+    "usado": true,
     "data": "16/06/2026",
-    "ip": null,
-    "ativadoEm": null,
-    "expiraEm": null
+    "ip": "179.191.222.245",
+    "ativadoEm": "16/06/2026, 12:23:53",
+    "expiraEm": "2026-07-16T15:23:53.496Z"
   }
 ]
